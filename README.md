@@ -23,9 +23,7 @@ In order to start writing code, please clone down the project from GitHub. Once 
 
 ## How do I walk through this project? 
 
-Completing this challenge is based on completing all open issues listed in GitHub. Please associate each commit you make with an open issue. You can push more than one commit per issue. Once the issue is completed, please use the [fixes keyword](https://docs.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue) to close the issue completely. 
-
-Searching for TODOs in the project files in conjunction with reading and understanding the open issues will give you more insight into where each part of the code should be written. 
+Searching for TODOs in the project files will give you more insight into where each part of the code should be written. 
 
 ## Deployment of your code. 
 
