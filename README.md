@@ -19,7 +19,7 @@ The cat tax calculator will be built using the following technologies:
 
 ## How do I start this project? 
 
-In order to start writing code, please clone down the project from GitHub. Once cloned, please create a new branch titled yourname_dev. Push all commits to your branch.  
+In order to start writing code, please fork then clone down the project from GitHub. Once cloned, please create a new branch titled yourname_dev. Push all commits to your branch.  
 
 ## How do I walk through this project? 
 
